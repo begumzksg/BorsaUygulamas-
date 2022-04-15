@@ -1,0 +1,10 @@
+C:\Users\ASUS\Desktop\ÖDEV\ÖDEV\obj\Debug\ÖDEV.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\ÖDEV\ÖDEV\obj\Debug\ÖDEV.Form1.resources
+C:\Users\ASUS\Desktop\ÖDEV\ÖDEV\obj\Debug\ÖDEV.Properties.Resources.resources
+C:\Users\ASUS\Desktop\ÖDEV\ÖDEV\obj\Debug\ÖDEV.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\ÖDEV\ÖDEV\obj\Debug\ÖDEV.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\ÖDEV\ÖDEV\bin\Debug\ÖDEV.exe.config
+C:\Users\ASUS\Desktop\ÖDEV\ÖDEV\bin\Debug\ÖDEV.exe
+C:\Users\ASUS\Desktop\ÖDEV\ÖDEV\bin\Debug\ÖDEV.pdb
+C:\Users\ASUS\Desktop\ÖDEV\ÖDEV\obj\Debug\ÖDEV.exe
+C:\Users\ASUS\Desktop\ÖDEV\ÖDEV\obj\Debug\ÖDEV.pdb

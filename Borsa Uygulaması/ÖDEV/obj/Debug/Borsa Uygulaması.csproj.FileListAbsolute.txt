@@ -1,0 +1,32 @@
+C:\Users\ASUS\Desktop\ÖDEV\ÖDEV\bin\Debug\ÖDEV.exe.config
+C:\Users\ASUS\Desktop\ÖDEV\ÖDEV\bin\Debug\ÖDEV.exe
+C:\Users\ASUS\Desktop\ÖDEV\ÖDEV\bin\Debug\ÖDEV.pdb
+C:\Users\ASUS\Desktop\ÖDEV\ÖDEV\obj\Debug\Borsa Uygulaması.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\ÖDEV\ÖDEV\obj\Debug\ÖDEV.Form1.resources
+C:\Users\ASUS\Desktop\ÖDEV\ÖDEV\obj\Debug\ÖDEV.Properties.Resources.resources
+C:\Users\ASUS\Desktop\ÖDEV\ÖDEV\obj\Debug\Borsa Uygulaması.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\ÖDEV\ÖDEV\obj\Debug\Borsa Uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\ÖDEV\ÖDEV\obj\Debug\ÖDEV.exe
+C:\Users\ASUS\Desktop\ÖDEV\ÖDEV\obj\Debug\ÖDEV.pdb
+C:\Users\ASUS\Desktop\ÖDEV - Kopya\ÖDEV\obj\Debug\Borsa Uygulaması.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\ÖDEV - Kopya\ÖDEV\obj\Debug\ÖDEV.exe
+C:\Users\ASUS\Desktop\ÖDEV - Kopya\ÖDEV\obj\Debug\ÖDEV.pdb
+C:\Users\ASUS\Desktop\ÖDEV - Kopya\ÖDEV\bin\Debug\ÖDEV.exe.config
+C:\Users\ASUS\Desktop\ÖDEV - Kopya\ÖDEV\bin\Debug\ÖDEV.exe
+C:\Users\ASUS\Desktop\ÖDEV - Kopya\ÖDEV\bin\Debug\ÖDEV.pdb
+C:\Users\ASUS\Desktop\ÖDEV - Kopya\ÖDEV\obj\Debug\ÖDEV.Form1.resources
+C:\Users\ASUS\Desktop\ÖDEV - Kopya\ÖDEV\obj\Debug\ÖDEV.Properties.Resources.resources
+C:\Users\ASUS\Desktop\ÖDEV - Kopya\ÖDEV\obj\Debug\Borsa Uygulaması.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\ÖDEV - Kopya\ÖDEV\obj\Debug\Borsa Uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\ÖDEV - Kopya\ÖDEV\obj\Debug\ÖDEV.Giriş.resources
+C:\Users\ASUS\Desktop\ÖDEV1\ÖDEV\bin\Debug\ÖDEV.exe.config
+C:\Users\ASUS\Desktop\ÖDEV1\ÖDEV\bin\Debug\ÖDEV.exe
+C:\Users\ASUS\Desktop\ÖDEV1\ÖDEV\bin\Debug\ÖDEV.pdb
+C:\Users\ASUS\Desktop\ÖDEV1\ÖDEV\obj\Debug\Borsa Uygulaması.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\ÖDEV1\ÖDEV\obj\Debug\ÖDEV.Form1.resources
+C:\Users\ASUS\Desktop\ÖDEV1\ÖDEV\obj\Debug\ÖDEV.Giriş.resources
+C:\Users\ASUS\Desktop\ÖDEV1\ÖDEV\obj\Debug\ÖDEV.Properties.Resources.resources
+C:\Users\ASUS\Desktop\ÖDEV1\ÖDEV\obj\Debug\Borsa Uygulaması.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\ÖDEV1\ÖDEV\obj\Debug\Borsa Uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\ÖDEV1\ÖDEV\obj\Debug\ÖDEV.exe
+C:\Users\ASUS\Desktop\ÖDEV1\ÖDEV\obj\Debug\ÖDEV.pdb
